@@ -23,6 +23,7 @@ export default function Home() {
       <Services />
       <BeforeAfter />
       <Gallery />
+      <FAQ />
       <Areas />
       <WhyChooseUs />
       <Testimonials />

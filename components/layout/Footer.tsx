@@ -44,15 +44,15 @@ export default function Footer() {
                     <div className="space-y-4">
 
                         <a
-                            href="tel:+967774684129"
+                            href="tel:+967774684128"
                             className="flex items-center gap-3 hover:text-white"
                         >
                             <FaPhoneAlt />
-                            +967 774684129
+                            +967 774684128
                         </a>
 
                         <a
-                            href="https://wa.me/967774684129"
+                            href="https://wa.me/967774684128"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="flex items-center gap-3 hover:text-white"

@@ -3,11 +3,11 @@ export const site = {
 
     slogan: "خبرة وجودة في جميع أعمال التلييس واللياسة",
 
-    phone: "774684129",
+    phone: "774684128",
 
-    phoneIntl: "+967774684129",
+    phoneIntl: "+967774684128",
 
-    whatsapp: "967774684129",
+    whatsapp: "967774684128",
 
     email: "info@example.com",
 

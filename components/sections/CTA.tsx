@@ -16,7 +16,7 @@ export default function CTA() {
                 <div className="mt-10 flex flex-wrap justify-center gap-4">
 
                     <a
-                        href="tel:+967774684129"
+                        href="tel:+967774684128"
                         className="flex items-center gap-2 rounded-xl bg-white px-8 py-4 font-bold text-amber-700 transition hover:scale-105"
                     >
                         <FaPhoneAlt />
@@ -24,7 +24,7 @@ export default function CTA() {
                     </a>
 
                     <a
-                        href="https://wa.me/967774684129"
+                        href="https://wa.me/967774684128"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center gap-2 rounded-xl bg-green-600 px-8 py-4 font-bold text-white transition hover:bg-green-700"

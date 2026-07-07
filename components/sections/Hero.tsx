@@ -44,7 +44,7 @@ export default function Hero() {
                     <div className="mt-10 flex flex-wrap gap-4">
 
                         <a
-                            href="tel:+967774684129"
+                            href="tel:+967774684128"
                             className="flex items-center gap-3 rounded-xl bg-amber-600 px-7 py-4 font-bold text-white transition hover:bg-amber-700"
                         >
                             <FaPhoneAlt />
@@ -52,7 +52,7 @@ export default function Hero() {
                         </a>
 
                         <a
-                            href="https://wa.me/967774684129"
+                            href="https://wa.me/967774684128"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="flex items-center gap-3 rounded-xl bg-green-600 px-7 py-4 font-bold text-white transition hover:bg-green-700"

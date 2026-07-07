@@ -46,14 +46,14 @@ export default function Header() {
                 <div className="hidden items-center gap-3 lg:flex">
 
                     <a
-                        href="https://wa.me/967774684129"
+                        href="https://wa.me/967774684128"
                         className="rounded-xl bg-green-600 px-4 py-3 text-white"
                     >
                         <FaWhatsapp />
                     </a>
 
                     <a
-                        href="tel:+967774684129"
+                        href="tel:+967774684128"
                         className="rounded-xl bg-amber-600 px-4 py-3 text-white"
                     >
                         <FaPhoneAlt />
