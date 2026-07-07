@@ -66,6 +66,12 @@ export const metadata: Metadata = {
     "لياسة الحديدة",
   ],
 
+
+verification: {
+  google: "yGsEhpBU4tOj2oVtJ4Qnz2ynWA2d_982wdf3rsaG7Kc",
+},
+
+
   authors: [{ name: "سند الرباحي" }],
   creator: "سند الرباحي",
   publisher: "سند الرباحي",
