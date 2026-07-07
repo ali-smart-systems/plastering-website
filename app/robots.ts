@@ -1,15 +1,16 @@
 import type { MetadataRoute } from "next";
 
 export default function robots(): MetadataRoute.Robots {
-    const baseUrl = "https://YOUR-DOMAIN.vercel.app";
+  const baseUrl = "https://plastering-website.vercel.app";
 
-    return {
-        rules: [
-            {
-                userAgent: "*",
-                allow: "/",
-            },
-        ],
-        sitemap: `${baseUrl}/sitemap.xml`,
-    };
+  return {
+    rules: [
+      {
+        userAgent: "*",
+        allow: "/",
+      },
+    ],
+    sitemap: `${baseUrl}/sitemap.xml`,
+    host: baseUrl,
+  };
 }
